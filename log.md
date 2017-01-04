@@ -7,14 +7,14 @@
 
 **Thoughts:** I'm learnig a lot of things about CSS in these days. I know I have a lot of stuffs to learn but now I can start to do a very simple web site page. I'm happy!
 
-<!--**Link to work:** [Calculator App](http://www.example.com)
+<!--**Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 0: February 30, 2016 (Example 2)
+### Day1: February 4, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I learned the usage of some particular concepts about a more responsive web app completing 14 challenges of freeCodeCamp.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I'm learning slowly but I thing I didn't forget nothing. I spent a lot of time to nest a font awesome icon in a like button and I'm feeling so bad. I don't lose hope.<!--
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
