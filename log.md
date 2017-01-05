@@ -21,6 +21,6 @@
 
 **Today's Progress**: I discoveerd jQuery completing every challenge of freeCodeCamp. Now I know hot to change some contenents in a HTML page using jQuery script. 
 
-**Thoughts**: I'm trying to see the utility about jQuery but I can't. Ok, it's cool to use the scripts in the same HTML file, but In my opinion it's better to modify tags classes etc directly in the HTML Frameworks.
+**Thoughts**: I'm trying to see the utility about jQuery but I can't. Ok, it's cool to use the scripts in the same HTML file, but In my opinion it's better to modify tags classes etc directly in the HTML Frameworks. 
 
 
