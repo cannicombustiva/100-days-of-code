@@ -26,3 +26,8 @@
 
 **Today's Progress**: In according to freeCodeCamp challange I had to do a personal portfolio but I gave up on it because I looked at other users projects and I observed they used js framework, so I restart a javascript course on freecodecamp. Amazing!
 **Thoughts**: A lot of time ago I completed a js course, but I think my knowledge is not enough to do some projects. I can do more and more so at the moment I'll improve my skills about javaScript. 
+
+### Day4: January 7, 2017
+
+**Today's Progress**: Today I studied js course on freeCodeCamp. I refreshed my mind about some structures. Really interesting!
+**Thoughts**: I'm on my way now. I'm focussing my target. I love coding!
