@@ -36,3 +36,8 @@
 
 **Today's Progress**: Finally I understand the difference between local&global scopes in javaScript.
 **Thoughts**: At the beginning when I studied this course, it was hard for my mind to use scopes. For me it's an important achievement. I feel very good.
+
+### Day6: January 9, 2017
+
+**Today's Progress**: Completed the basic js course on freeCodeCamp. 
+**Thoughts**: I realize that I love this world. Thanks to this challenge I am experiencing so much satisfaction that the university I can not see. 
