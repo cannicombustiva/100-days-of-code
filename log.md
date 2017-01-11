@@ -41,3 +41,8 @@
 
 **Today's Progress**: Completed the basic js course on freeCodeCamp. 
 **Thoughts**: I realize that I love this world. Thanks to this challenge I am experiencing so much satisfaction that the university I can not see. 
+
+### Day7: January 10, 2017
+
+**Today's Progress**: I spent 2 hours to finish the 'Make Object Properties Private' challenge.
+**Thoughts**: Honestly, I think I didn't make progress because I'm not able to use public and private properties as well as I wish. It's frustrating...
