@@ -47,7 +47,7 @@
 **Today's Progress**: I spent 2 hours to finish the 'Make Object Properties Private' challenge.
 **Thoughts**: Honestly, I think I didn't make progress because I'm not able to use public and private properties as well as I wish. It's frustrating...
 
-### Day8: January 10, 2017
+### Day8: January 11, 2017
 
 **Today's Progress**: I learned some methods in javaScript like .filter, .reverse ect ect.
 **Thoughts**: I think that methods will be very usefull in my study. Anyway, THIS IS THE 8th DAY! congratz to me!!! 
