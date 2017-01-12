@@ -25,29 +25,44 @@
 ### Day3: January 6, 2017
 
 **Today's Progress**: In according to freeCodeCamp challange I had to do a personal portfolio but I gave up on it because I looked at other users projects and I observed they used js framework, so I restart a javascript course on freecodecamp. Amazing!
+
 **Thoughts**: A lot of time ago I completed a js course, but I think my knowledge is not enough to do some projects. I can do more and more so at the moment I'll improve my skills about javaScript. 
 
 ### Day4: January 7, 2017
 
 **Today's Progress**: Today I studied js course on freeCodeCamp. I refreshed my mind about some structures. Really interesting!
+
 **Thoughts**: I'm on my way now. I'm focussing my target. I love coding!
 
 ### Day5: January 8, 2017
 
 **Today's Progress**: Finally I understand the difference between local&global scopes in javaScript.
+
 **Thoughts**: At the beginning when I studied this course, it was hard for my mind to use scopes. For me it's an important achievement. I feel very good.
 
 ### Day6: January 9, 2017
 
 **Today's Progress**: Completed the basic js course on freeCodeCamp. 
+
 **Thoughts**: I realize that I love this world. Thanks to this challenge I am experiencing so much satisfaction that the university I can not see. 
 
 ### Day7: January 10, 2017
 
 **Today's Progress**: I spent 2 hours to finish the 'Make Object Properties Private' challenge.
+
 **Thoughts**: Honestly, I think I didn't make progress because I'm not able to use public and private properties as well as I wish. It's frustrating...
 
 ### Day8: January 11, 2017
 
 **Today's Progress**: I learned some methods in javaScript like .filter, .reverse ect ect.
+
 **Thoughts**: I think that methods will be very usefull in my study. Anyway, THIS IS THE 8th DAY! congratz to me!!! 
+
+### Day9: January 12, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Started 'Basic Algorithm Scripting' on freeCodeCamp. I spent several time to made a working code about searching the longest string. 
+
+**Thoughts:**: I'm learning how to apply what I studied. At university I worked on the C language and I'm seeing that JS is very powerful and useful.
+
+**Link to work:** [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
