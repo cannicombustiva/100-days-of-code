@@ -59,10 +59,16 @@
 **Thoughts**: I think that methods will be very usefull in my study. Anyway, THIS IS THE 8th DAY! congratz to me!!! 
 
 ### Day9: January 12, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Started 'Basic Algorithm Scripting' on freeCodeCamp. I spent several time to made a working code about searching the longest string. 
 
 **Thoughts:**: I'm learning how to apply what I studied. At university I worked on the C language and I'm seeing that JS is very powerful and useful.
 
 **Link to work:** [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+### Day10: January 13, 2017
+
+**Today's Progress**: I still play with 'Basic Algorithm Script'. I discovered some methods about substring, control string/array.
+
+**Thoughts:**: Amazing! I'm growing day by day. 10 days ago I wasn't able to build a tribut page or I didn't know bootstrap.
+
