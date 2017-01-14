@@ -72,3 +72,11 @@
 
 **Thoughts:**: Amazing! I'm growing day by day. 10 days ago I wasn't able to build a tribut page or I didn't know bootstrap.
 
+### Day11: January 14, 2017
+
+**Today's Progress**: Completed HTML and JS files to build my Random Quote Machine.
+
+**Thoughts:**: Every day I'm doing useful things. This #100daysofCode challenge is powerful.
+
+**Link to work:** [Newbie Random Quote Machine](https://github.com/cannicombustiva/Newbie-Random-quote-machine-)
+
