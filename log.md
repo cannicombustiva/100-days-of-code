@@ -80,3 +80,11 @@
 
 **Link to work:** [Newbie Random Quote Machine](https://github.com/cannicombustiva/Newbie-Random-quote-machine-)
 
+### Day12/13: January 15/16, 2017
+
+**Today's Progress**: Completed my Random Quote Machine on codepen.io and started 'Show Local Weather Project'.
+
+**Thoughts:**: I understood the jQuery importance: now I think I can manipulate strings and HTML components so as to respect the user story.
+
+**Link to work:** [Newbie Random Quote Machine](https://github.com/cannicombustiva/Newbie-Random-quote-machine-)
+
