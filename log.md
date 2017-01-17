@@ -88,3 +88,10 @@
 
 **Link to work:** [Newbie Random Quote Machine](https://github.com/cannicombustiva/Newbie-Random-quote-machine-)
 
+### Day14: January 17, 2017
+
+**Today's Progress**: Learned how APIs request works and the REST principles. Today I worked to JSON file of localWeatherMap and I "solved" the problem about mixed content HTTP/HTTPS when I used the Get jQuery methods to import data, replacing on codepen url HTTP with HTTPS. I think this method isn't cool so tomorrow I'll work on another solution.
+
+**Thoughts:**: It was a tiring day. Before writing a line of code I have to study so much but the result is wonderful. "One small step for a man, one giant leap for mankind".
+
+
