@@ -94,4 +94,10 @@
 
 **Thoughts:**: It was a tiring day. Before writing a line of code I have to study so much but the result is wonderful. "One small step for a man, one giant leap for mankind".
 
+### Day15/16: January 18/19, 2017
 
+**Today's Progress**: Finally I created a function in jQuery that put inside my url of my Local Weather project a string from HTML input tag. I'm near to finish this project. I just met some problems about a function converting celsius and fahrenheit using a 'click'.
+
+**Thoughts:**: I'm increasing my skills day by day. It's cool to know the enormous work exists behind the technologies we use.
+
+**Link to work:**[WatsTheWeather](http://codepen.io/Cannicombustiva/pen/WRGWZp)
