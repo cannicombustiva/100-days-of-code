@@ -101,3 +101,11 @@
 **Thoughts:**: I'm increasing my skills day by day. It's cool to know the enormous work exists behind the technologies we use.
 
 **Link to work:**[WatsTheWeather](http://codepen.io/Cannicombustiva/pen/WRGWZp)
+
+### Day17/30: January 20 February 6, 2017
+
+**Today's Progress**: I completely forgot to report here my progress...anyway I improved my js skills, expecially using jQuery library. There is an important thing to say: today I completed my js calculator project, and I builded the interface with CSS. IT'S SO EXCITING. 
+
+**Thoughts:**: 30 days in a row of coding. Guys, I'm in zone!
+
+**Link to work:**[js Calculator](http://codepen.io/Cannicombustiva/full/KaeQPM)
