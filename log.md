@@ -109,3 +109,11 @@
 **Thoughts:**: 30 days in a row of coding. Guys, I'm in zone!
 
 **Link to work:**[js Calculator](http://codepen.io/Cannicombustiva/full/KaeQPM)
+
+### Day31: February 7, 2017
+
+**Today's Progress**: Started the 'Pomodoro clock' project in accrofing to freeCodeCamp challenge. At the moment I wrote some code line in HTML and CSS using Bootstrap too.
+
+**Thoughts:**: 
+
+**Link to work:**[Pomodoro Clock](http://codepen.io/Cannicombustiva/pen/EZpqdg)
