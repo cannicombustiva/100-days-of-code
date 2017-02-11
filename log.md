@@ -117,3 +117,11 @@
 **Thoughts:**: 
 
 **Link to work:**[Pomodoro Clock](http://codepen.io/Cannicombustiva/pen/EZpqdg)
+
+### Day32/34: February 10, 2017
+
+**Today's Progress**: Completed the 'Pomodoro clock' project in accrofing to freeCodeCamp challenge. 
+
+**Thoughts:**: 
+
+**Link to work:**[Pomodoro Clock](http://codepen.io/Cannicombustiva/pen/EZpqdg)
