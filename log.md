@@ -125,3 +125,11 @@
 **Thoughts:**: 
 
 **Link to work:**[Pomodoro Clock](http://codepen.io/Cannicombustiva/pen/EZpqdg)
+
+### Day35/43: February 20, 2017
+
+**Today's Progress**: Completed all challenges to claim my Front End Development Certificate of Free Code Camp. I would like to start the Data Visualization course so I'm studying React: it's so complicated...
+
+**Thoughts:**: In these days I realized a lot of projects; projects impossible to build for me 30 days ago. Now I can say I grew up a lot in 43 days.
+
+
